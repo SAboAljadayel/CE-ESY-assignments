@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define SIZE 10   // غيّرها للتجربة
+#define SIZE 10
 
 
 typedef struct {
